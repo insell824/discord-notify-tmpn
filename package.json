@@ -1,0 +1,27 @@
+{
+  "name": "discord-notify-tmpn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insell824/discord-notify-tmpn.git"
+  },
+  "author": "",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/insell824/discord-notify-tmpn/issues"
+  },
+  "homepage": "https://github.com/insell824/discord-notify-tmpn#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "nodemon": "^2.0.6"
+  }
+}
